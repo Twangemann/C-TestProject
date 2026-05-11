@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\C-TestProject\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\C-TestProject\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\C-TestProject\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\C-TestProject\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\twang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\twang\\Project\\stuff\\ConsoleApp1\\C-TestProject\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\twang\\AppData\\Roaming\\NuGet\\NuGet.Config",
